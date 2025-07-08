@@ -1,4 +1,25 @@
 body {
     color:white;
     background:black;
-    {
+    margin: 0px;
+}
+
+hearde {
+    border-bottom: solid 2px rgb(42,122,228);
+    padding:20px;
+    font-size: 32px;
+    color: rgb(42,122,228);
+}
+
+section {
+    background: rgb(156, 213, 208);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamda-texto {
+    margin-right: 5%;
+}
+ 
